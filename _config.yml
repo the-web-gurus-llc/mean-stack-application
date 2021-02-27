@@ -1,2 +1,4 @@
+# replace logo path with your actual image path on line 4
+
 theme: jekyll-theme-minimal
-logo: https://www.linnovate.net/sites/all/themes/linnovate/images/mean-picture.png
+logo: /images/mean-picture.png
